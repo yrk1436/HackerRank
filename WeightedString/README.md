@@ -1,5 +1,5 @@
 # Weighted String C# Solution
-Instructions
+##Instructions
 
 A = 1
 B = 2*A + A
