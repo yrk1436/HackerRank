@@ -2,15 +2,15 @@
 ## Instructions
 
 **A = 1  
-B = 2*A + A  
-C = 3*B + B  
-D = 4*C + C  
+B = 2\*A + A  
+C = 3\*B + B  
+D = 4\*C + C  
 .  
 .  
 .  
 .  
-Y = 25*X + X  
-Z = 26*Y + Y**  
+Y = 25\*X + X  
+Z = 26\*Y + Y**  
 
 Given a number(weight) as input, smallestString() method should return the shortest possible string to achieve the weight given
 
