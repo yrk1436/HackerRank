@@ -1,10 +1,10 @@
 # Weighted String C# Solution
 ## Instructions
 
-**A = 1
-B = 2*A + A
-C = 3*B + B
-D = 4*C + C
+**A = 1  
+B = 2*A + A  
+C = 3*B + B  
+D = 4*C + C  
 .
 .
 .
