@@ -6,8 +6,8 @@ When building a computing cluster consisting of several machines, two parameters
 Given information about several available machines, select machines to create a cluster of less than or equal to a particular size. Determine the maximum quality of cluster that can be created.
 
 **Example 
-*n* = 5 
-*speed* = [4, 3, 15, 5, 6]  
+*n* = 5   
+*speed* = [4, 3, 15, 5, 6]   
 *reliability* = [7, 6, 1, 2, 8]  
 *maxMachines* = 3**
 
