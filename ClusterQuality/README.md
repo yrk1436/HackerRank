@@ -13,7 +13,7 @@ Given information about several available machines, select machines to create a 
 
 The maximum number of machines to use is *maxMachines* = 3 chosen from *n* = 5 available machines. A *machine[i]'s* speed and reliability are *speed[i]* and *reliability[i]*.
 Select the first, second and fifth machines. The quality of this cluster is:
-   *(speed[0] + speed[1] + speed[4]) \* min(reliability[0], reliability[1], reliability[4]) = (4 + 3 + 6) \* min(7, 6, 8) = 13 \* 6 = 78.
+   *(speed[0] + speed[1] + speed[4]) \* min(reliability[0], reliability[1], reliability[4]) = (4 + 3 + 6) \* min(7, 6, 8) = 13 \* 6 = 78*.
 
 This is the highest quality that can be achieved, so the answer is 78.
 
